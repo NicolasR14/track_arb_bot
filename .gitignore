@@ -1,0 +1,9 @@
+node_modules
+get_addresses/env
+get_addresses/adresses.csv
+get_addresses/contracts.csv
+get_addresses/Dashboard.xlsx
+get_addresses/result.csv
+get_addresses/__pycache__
+alchemy_test.js
+config.js

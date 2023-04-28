@@ -1,0 +1,39 @@
+
+.to_clipboard{
+    height: 0.8cm;
+    width: 0.8cm;
+    border-radius: 50%;
+    background: url(./to_clipboard.png) transparent no-repeat;
+    background-position: center;
+    background-size: 0.4cm 0.4cm;
+    cursor: pointer;
+}
+
+.dscreen_b_c{
+    height: 0.8cm;
+    width: 0.8cm;
+    border-radius: 50%;
+    background: url(./dexscreener.jpg) transparent no-repeat;
+    background-position: center;
+    background-size: 0.4cm 0.4cm;
+    cursor: pointer;
+
+}
+
+.bogswap_b_c{
+    height: 0.8cm;
+    width: 0.8cm;
+    border-radius: 50%;
+    background: url(./bogswap.png) transparent no-repeat;
+    background-position: center;
+    background-size: 0.4cm 0.4cm;
+    cursor: pointer;
+
+}
+
+
+
+#main{
+    display: flex;
+    flex-direction: column;
+}

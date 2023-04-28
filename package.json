@@ -1,0 +1,17 @@
+{
+  "name": "track_bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^2.4.0"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "description": ""
+}
